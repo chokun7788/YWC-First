@@ -1,0 +1,13 @@
+import {writeFile} from 'node:fs/promises';
+import {fileURLToPath} from 'node:url';
+import {catalogue} from '../server/assistant';
+import {loadContent} from '../../../src/lib/content/load';
+const root=new URL('../../../',import.meta.url);
+const {content}=await loadContent(fileURLToPath(root));
+const routes=await catalogue();
+const rows=routes.map(row=>({id:row.id,title:row.title,context:row.context,kind:row.kind,status:'draft',useAsAnswerEvidence:false,inputFile:row.kind==='guides'?'prototypes/rd-ready-visual-handbook/src/data/guides.json':row.kind==='life'?'prototypes/rd-ready-visual-handbook/src/data/camp-life.json':row.context==='field'?'prototypes/rd-ready-visual-handbook/src/data/poster.json':'prototypes/rd-ready-visual-handbook/src/data/review-content.json',approvedEvidenceIds:[]}));
+const counts={reviewTopics:rows.length,verifiedEvidence:content.evidence.filter(b=>b.status==='verified').length,verifiedSources:content.sources.filter(b=>b.status==='verified').length,verifiedGuides:content.guides.filter(b=>b.status==='verified').length};
+await writeFile(new URL('docs/KNOWLEDGE-MAP-2026-10-30.json',root),JSON.stringify({counts,rows},null,2)+'\n');
+const text=`# Knowledge map — 2026-10-30\n\n${JSON.stringify(counts)}\n\n## Actual answer data\n\n- D:/Chokun/content/settings.json: supported verified centers, locations and contexts.\n- D:/Chokun/content/sources.json: publisher, document URL/path, scope, dates, review status.\n- D:/Chokun/content/evidence.json: source-backed factual blocks, keywords, source locator/excerpt, scope, status.\n- D:/Chokun/content/items.json, policies.json, guides.json, faqs.json: aliases, permissions, steps and question links referencing those blocks.\n\n## Review navigation data\n\nThe following records are review documents, not approved answers. Empty approvedEvidenceIds is an unfilled mapping, not permission to infer facts. Audit script does not approve or import any record.\n\n| ID | Title | Context | Input file | Approved evidence |\n| --- | --- | --- | --- | --- |\n${rows.map(row=>`| ${row.id} | ${row.title.replaceAll('|','/')} | ${row.context} | ${row.inputFile} | pending review |`).join('\n')}\n\n## Required next step\n\nReview source text, excerpt/locator, applicability, validity, year and uniform scope per record; then explicitly approve and import valid source/evidence/policy/guide/FAQ references. Preserve unknown scope; do not relabel historical2566 as current. Role/prompt and retrieval are already wired: server/assistant-prompt.ts and server/knowledge.ts. No draft record enters the provider approvedEvidence packet or factual response.\n`;
+await writeFile(new URL('docs/KNOWLEDGE-MAP-2026-10-30.md',root),text);
+console.log(JSON.stringify(counts));

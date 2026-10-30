@@ -1,0 +1,17 @@
+[
+  {
+    "id": "faq-draft-001",
+    "questions": [
+      "รอกรอกคำถามจริง"
+    ],
+    "intent": "dress",
+    "evidenceBlockIds": [
+      "ev-draft-001"
+    ],
+    "guideIds": [
+      "guide-draft-001"
+    ],
+    "itemIds": [],
+    "status": "draft"
+  }
+]

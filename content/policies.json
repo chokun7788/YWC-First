@@ -1,0 +1,22 @@
+[
+  {
+    "id": "policy-draft-001",
+    "itemId": "item-draft-001",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "permission": "not_specified",
+    "preparation": "not_specified",
+    "conditions": [],
+    "evidenceBlockIds": [
+      "ev-draft-001"
+    ],
+    "status": "draft",
+    "supersedesPolicyIds": []
+  }
+]

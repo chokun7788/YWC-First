@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ev-draft-001",
+    "title": "รอกรอกหัวข้อที่ตรวจแล้ว",
+    "topic": "uniform",
+    "text": "",
+    "keywords": [],
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "sourceRefs": [
+      {
+        "sourceId": "src-draft-001",
+        "locator": "",
+        "excerpt": ""
+      }
+    ],
+    "status": "draft",
+    "kind": "how_to"
+  }
+]

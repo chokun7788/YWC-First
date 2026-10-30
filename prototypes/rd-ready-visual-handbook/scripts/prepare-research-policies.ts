@@ -1,0 +1,25 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const root=new URL('../../../research/2026-10-29/',import.meta.url);
+const json=async(path:string)=>JSON.parse(await readFile(new URL(path,root),'utf8'));
+const [cards,rules,centerSources,items,facts,prior,deepSources,deepCards]=await Promise.all(['run-center-training-013748/answer-cards.json','run-center-training-013748/rules.json','run-center-training-013748/sources.json','run-deep-items-004745/item-records.json','run-deep-items-004745/facts.json','run-deep-items-004745/prior-evidence.json','run-deep-items-004745/sources.json','run-deep-items-004745/answer-cards.json'].map(json));
+const records:any[]=[];
+const refs=(sourceRefs:any[],sources:any[])=>sourceRefs.flatMap(ref=>{const s=sources.find(s=>s.id===ref.sourceId);const url=ref.url??s?.url;return /^https?:\/\//.test(url??'')?[{url,attribution:s?.publisher??s?.title??'แหล่งในชุดวิจัยเดิม',locator:ref.locator??s?.readScope??'เอกสารที่รวบรวมไว้'}]:[];});
+const context=(scope:any)=>scope?.trainingTypes?.length===1?(scope.trainingTypes[0]==='field'?'field':'center'):'any';
+for(const c of cards){records.push({id:`faq-${c.id}`,topicId:c.id,title:c.question,text:c.text,context:context(c.scope),kind:'policy',aliases:[c.question],references:refs(c.sourceIds.map(id=>({sourceId:id})),centerSources),videos:[]});}
+for(const r of rules){records.push({id:r.id,topicId:r.id,title:r.title+' ข้อห้าม กฎระเบียบ',text:r.text+'\nขอบเขตแหล่ง: '+r.locator+'\nประเภทการกล่าวอ้าง: '+r.authority,context:context(r.scope),kind:'policy',aliases:[r.title],references:refs(r.sourceRefs?.length?r.sourceRefs:[{sourceId:r.sourceId,locator:r.locator}],centerSources),videos:[]});}
+const evidence=[...facts,...prior];
+for(const item of items){
+ const ids=[...item.evidenceIds,...(item.otherFacts??[]),...(item.appearanceFacts??[])];const found=evidence.filter(e=>ids.includes(e.id));
+ const sourceRefs=[...(item.preparationRecords??[]).flatMap(r=>r.sourceRefs??[]),...found.flatMap(e=>e.sourceRefs??[{sourceId:e.sourceId,locator:e.locator}])];
+ const references=refs(sourceRefs,deepSources);
+ const years=item.scope?.academicYearsBE??[];
+ records.push({id:`item-${item.id}`,topicId:item.id,title:item.label+' เตรียมอย่างไร เอาไปได้ไหม',text:[item.advice,item.reason,'ประเภทข้อมูล: '+item.claimType,years.length?'ปีของหลักฐาน: '+years.join(','):'ไม่ยืนยันปี/ผลัดปัจจุบัน',...found.map(e=>'ข้อมูลประกอบ: '+e.text),...(item.preparationRecords??[]).map(r=>'รายละเอียดเตรียม: '+r.basis),'ข้อจำกัด: '+item.currentPolicy.reason].join('\n'),context:context(item.scope),kind:'policy',aliases:[item.label,...item.aliases],references,videos:[]});
+}
+for(const card of deepCards){const found=evidence.filter(e=>(card.evidenceIds??[]).includes(e.id));records.push({id:`deep-${card.id}`,topicId:card.id,title:card.question,text:card.answer+'\nข้อจำกัด: '+card.limit,context:found.length&&found.every(e=>context(e.scope)==='field')?'field':'any',kind:'policy',aliases:[card.question],references:refs(found.flatMap(e=>e.sourceRefs??[{sourceId:e.sourceId,locator:e.locator}]),deepSources),videos:[]});}
+const [community,communityCards,communitySources,centralCards,centralSources]=await Promise.all(['run-community-evidence-180122/experience-evidence.json','run-community-evidence-180122/answer-cards.json','run-community-evidence-180122/sources.json','run-central-policy-172447/answer-cards.json','run-central-policy-172447/sources.json'].map(json));
+for(const e of community){const names=items.filter(item=>(e.itemIds??[]).includes(item.id)).flatMap(item=>[item.label,...item.aliases]);records.push({id:`community-${e.id}`,topicId:e.topic,title:names.join(' / ')+' '+e.topic,text:[e.summary,'การอ้างอิง: '+e.attributionLabel,'ประเภท: '+e.kind,'วันที่โพสต์: '+(e.dateDisplay??'ไม่ทราบ')+' ไม่ใช่การยืนยันปีการศึกษา',...(e.conditions??[]),'ไม่ใช่ประกาศอนุญาตทุกผลัด'].join('\n'),context:context(e.scope),kind:'experience',aliases:names,references:refs(e.sourceRefs,communitySources).map(ref=>({...ref,attribution:e.attributionLabel??ref.attribution})),videos:[]});}
+for(const c of communityCards){const found=community.filter(e=>c.evidenceIds.includes(e.id));records.push({id:`community-${c.id}`,topicId:c.id,title:c.question,text:c.text,context:'field',kind:'experience',aliases:[c.question],references:found.flatMap(e=>refs(e.sourceRefs,communitySources).map(ref=>({...ref,attribution:e.attributionLabel??ref.attribution}))),videos:[]});}
+for(const c of centralCards){records.push({id:`central-${c.id}`,topicId:c.id,title:c.question,text:c.text,context:'any',kind:'policy',aliases:[c.question],references:refs(c.sourceIds.map(id=>({sourceId:id})),centralSources),videos:[]});}
+const usable=records.filter(r=>r.references.length);
+await writeFile(new URL('../src/data/research-policies.json',import.meta.url),JSON.stringify({status:'draft',origin:'Existing research, owner-authorized experimental answers; not new verification',records:usable,excludedNoSources:records.filter(r=>!r.references.length).map(r=>({id:r.id,title:r.title}))},null,2)+'\n');
+console.log(JSON.stringify({imported:usable.length,excludedNoSources:records.length-usable.length}));

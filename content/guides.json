@@ -1,0 +1,32 @@
+[
+  {
+    "id": "guide-draft-001",
+    "slug": "draft-guide",
+    "title": "รอกรอกชื่อคู่มือ",
+    "summary": "",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "steps": [
+      {
+        "title": "รอกรอกขั้นตอน",
+        "evidenceBlockIds": [
+          "ev-draft-001"
+        ],
+        "imagePath": null,
+        "alt": null
+      }
+    ],
+    "relatedItemIds": [],
+    "videoLinks": [],
+    "evidenceBlockIds": [
+      "ev-draft-001"
+    ]
+  }
+]

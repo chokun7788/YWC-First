@@ -1,0 +1,26 @@
+{
+  "projectName": "RD Ready",
+  "contentMode": "verified_only",
+  "centers": [
+    {
+      "id": "vibhavadi_pending",
+      "label": "วิภาวดี — รอตรวจชื่อหน่วยทางการ",
+      "officialName": null,
+      "verified": false
+    }
+  ],
+  "locations": [
+    {
+      "id": "regular_location_pending",
+      "label": "สถานที่ฝึกปกติ — รอตรวจ",
+      "verified": false
+    },
+    {
+      "id": "khao_chon_kai",
+      "label": "เขาชนไก่",
+      "verified": false
+    }
+  ],
+  "supportedContexts": [],
+  "contactUrl": null
+}

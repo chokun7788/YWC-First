@@ -1,0 +1,444 @@
+[
+  {
+    "column": "left",
+    "row": 1,
+    "itemId": "pack-uniform",
+    "evidenceId": "pe-poster66-uniform",
+    "text": "ชุดฝึก(อย่างน้อย) 2 ชุด",
+    "quantityNote": "อย่างน้อย 2 ชุด",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "left",
+    "row": 2,
+    "itemId": "pack-undershirt",
+    "evidenceId": "pe-poster66-undershirt",
+    "text": "เสื้อยืดซับใน 3–7 ตัว",
+    "quantityNote": "3–7 ตัว",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "left",
+    "row": 3,
+    "itemId": "pack-field-kit",
+    "evidenceId": "pe-poster66-field-kit",
+    "text": "เครื่องสนาม 1 ชุด",
+    "quantityNote": "1 ชุด; ภาพไม่ได้แจกแจงส่วนประกอบ",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "left",
+    "row": 4,
+    "itemId": "pack-bath-kit",
+    "evidenceId": "pe-poster66-bath-kit",
+    "text": "เครื่องอาบน้ำ / ซักล้าง 1 ชุด",
+    "quantityNote": "1 ชุด; ไม่กำหนดยี่ห้อหรือจำนวนของแต่ละชิ้น",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "left",
+    "row": 5,
+    "itemId": "pack-sleeping",
+    "evidenceId": "pe-poster66-sleeping",
+    "text": "เครื่องนอน เช่น ผ้าห่ม, ถุงนอน",
+    "quantityNote": "ไม่ระบุจำนวน; เป็นตัวอย่าง ไม่ได้บังคับว่าต้องซื้อทั้งสองอย่าง",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "left",
+    "row": 6,
+    "itemId": "pack-shorts",
+    "evidenceId": "pe-poster66-shorts",
+    "text": "กางเกงขาสั้น 2 ตัว",
+    "quantityNote": "2 ตัว",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "left",
+    "row": 7,
+    "itemId": "pack-underwear",
+    "evidenceId": "pe-poster66-underwear",
+    "text": "กางเกงชั้นใน 3–7 ตัว",
+    "quantityNote": "3–7 ตัว; ไม่ขยายเป็นเสื้อชั้นในทุกชนิด",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "left",
+    "row": 8,
+    "itemId": "pack-sneakers",
+    "evidenceId": "pe-poster66-sneakers",
+    "text": "รองเท้าผ้าใบ 1 คู่",
+    "quantityNote": "1 คู่; ภาพไม่ระบุสีหรือแบบ",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "left",
+    "row": 9,
+    "itemId": "pack-sandals",
+    "evidenceId": "pe-poster66-sandals",
+    "text": "รองเท้าฟองน้ำ 1 คู่",
+    "quantityNote": "1 คู่",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "right",
+    "row": 1,
+    "itemId": "pack-shoe-care",
+    "evidenceId": "pe-poster66-shoe-care",
+    "text": "ยาขัดรองเท้า / แปรงขัด",
+    "quantityNote": "ไม่ระบุจำนวน",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "right",
+    "row": 2,
+    "itemId": "pack-socks",
+    "evidenceId": "pe-poster66-socks",
+    "text": "ถุงเท้าแบบหนา 3–7 คู่",
+    "quantityNote": "3–7 คู่",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "right",
+    "row": 3,
+    "itemId": "pack-spoon",
+    "evidenceId": "pe-poster66-spoon",
+    "text": "ช้อน,ส้อม,แก้วน้ำ 1 ชุด",
+    "quantityNote": "1 ชุด; ไม่ขยายเป็นภาชนะอาหารทุกชนิด",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "right",
+    "row": 4,
+    "itemId": "pack-sewing",
+    "evidenceId": "pe-poster66-sewing",
+    "text": "เข็ม,ด้าย 1 ชุด",
+    "quantityNote": "1 ชุด; ไม่ครอบคลุมกรรไกรหรือมีด",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "right",
+    "row": 5,
+    "itemId": "pack-writing",
+    "evidenceId": "pe-poster66-writing",
+    "text": "สมุดพก,ปากกา 1 ชุด",
+    "quantityNote": "1 ชุด",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "right",
+    "row": 6,
+    "itemId": "pack-personal-meds",
+    "evidenceId": "pe-poster66-personal-meds",
+    "text": "ยารักษาโรคประจำตัว",
+    "quantityNote": "ไม่ระบุจำนวนหรือขนาดยา",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "right",
+    "row": 7,
+    "itemId": "pack-jacket",
+    "evidenceId": "pe-poster66-jacket",
+    "text": "เสื้อกันหนาว",
+    "quantityNote": "ไม่ระบุจำนวนหรือแบบ",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  },
+  {
+    "column": "right",
+    "row": 8,
+    "itemId": "pack-id",
+    "evidenceId": "pe-poster66-id",
+    "text": "บัตรประชาชน / บัตร นศท.",
+    "quantityNote": "ภาพใช้เครื่องหมาย / ไม่ตีความว่าต้องมีทั้งสองบัตร",
+    "scope": {
+      "centerIds": [],
+      "locationIds": [
+        "khao_chon_kai"
+      ],
+      "trainingTypes": [
+        "field"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [
+        2566
+      ],
+      "uniformGroups": []
+    },
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false
+  }
+]

@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import sharp from 'sharp';
+const [id,source]=process.argv.slice(2);
+if(!/^[a-z-]+$/.test(id??'')||!source)throw new Error('Expected asset ID and generated image path');
+const target=path.resolve('public/assets/items',id+'.webp');
+await fs.mkdir(path.dirname(target),{recursive:true});
+await sharp(source).resize(600,400,{fit:'contain',background:'#f8f7f2'}).webp({quality:84}).toFile(target);
+await fs.mkdir('qa/item-image-provenance',{recursive:true});
+await fs.writeFile(path.resolve('qa/item-image-provenance',id+'.provenance.json'),JSON.stringify({id,mode:'builtin',illustrationOnly:true,sourceFile:path.basename(source),note:'Object identification illustration, not required type/color/quantity or regulation evidence.'},null,2));
+console.log(JSON.stringify({id,bytes:(await fs.stat(target)).size}));

@@ -1,0 +1,2791 @@
+[
+  {
+    "id": "guide-full",
+    "title": "แต่งชุดเต็มก่อนออกจากบ้าน",
+    "summary": "ลำดับช่วยตรวจของจากคลิปสาธิตและภาพหลายมุม ไม่กำหนดว่าทุกสังกัดใช้เครื่องหมายเหมือนผู้สาธิต",
+    "steps": [
+      {
+        "order": 1,
+        "text": "สวมเสื้อยืดประกอบเครื่องแบบ โดยตรวจแบบของชาย/หญิงและชุดที่กลุ่มใช้",
+        "sourceIds": [
+          "C01",
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "videoJumpIds": [
+          "V02-under"
+        ],
+        "originStepOrders": [
+          1,
+          2,
+          3
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:C01",
+            "url": "https://www.tdc.mi.th/pdf/kts/TDDReg.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "หน่วยบัญชาการรักษาดินแดน"
+          },
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "เสื้อยืดประกอบชุด",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=25s",
+            "seconds": 25,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "สวมกางเกงฝึกที่เข้าคู่กับเสื้อแบบ ก/ข",
+        "sourceIds": [
+          "C01",
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "videoJumpIds": [
+          "V02-pants"
+        ],
+        "originStepOrders": [
+          1,
+          2,
+          3
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:C01",
+            "url": "https://www.tdc.mi.th/pdf/kts/TDDReg.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "หน่วยบัญชาการรักษาดินแดน"
+          },
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "สวมและจัดกางเกง",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=35s",
+            "seconds": 35,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "ร้อยเข็มขัดเครื่องแบบผ่านหูกางเกงและตรวจสายไม่บิด",
+        "sourceIds": [
+          "C01",
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "videoJumpIds": [
+          "V02-belt"
+        ],
+        "originStepOrders": [
+          1,
+          2,
+          3
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:C01",
+            "url": "https://www.tdc.mi.th/pdf/kts/TDDReg.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "หน่วยบัญชาการรักษาดินแดน"
+          },
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "ร้อยและปิดเข็มขัด",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=50s",
+            "seconds": 50,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "text": "สวมถุงเท้า ใส่รองเท้า แล้วร้อยและผูกเชือกให้เรียบร้อย",
+        "sourceIds": [
+          "C01",
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "videoJumpIds": [
+          "V04-boots"
+        ],
+        "originStepOrders": [
+          1,
+          2,
+          3
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:C01",
+            "url": "https://www.tdc.mi.th/pdf/kts/TDDReg.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "หน่วยบัญชาการรักษาดินแดน"
+          },
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "สวมเท้าเข้ารองเท้าคอมแบต",
+            "url": "https://www.youtube.com/watch?v=0WWwg247CCs&t=200s",
+            "seconds": 200,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "text": "สวมเสื้อนอกและจัดชายเสื้อตามแบบ ก/ข ไม่ใช้วิธีเดียวกันทุกแบบ",
+        "sourceIds": [
+          "C01",
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "videoJumpIds": [
+          "V02-shirt-wear"
+        ],
+        "originStepOrders": [
+          1,
+          2,
+          3
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:C01",
+            "url": "https://www.tdc.mi.th/pdf/kts/TDDReg.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "หน่วยบัญชาการรักษาดินแดน"
+          },
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "สวมเสื้อนอกและจัดชายเสื้อ",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=260s",
+            "seconds": 260,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "text": "ตรวจหมวก ป้ายชื่อ ชั้นปีและเครื่องหมายของตน แล้วตรวจชุดด้านหน้า ข้าง และหลัง",
+        "sourceIds": [
+          "C01",
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "videoJumpIds": [
+          "V02-hat",
+          "V02-insignia"
+        ],
+        "originStepOrders": [
+          1,
+          2,
+          3
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:C01",
+            "url": "https://www.tdc.mi.th/pdf/kts/TDDReg.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "หน่วยบัญชาการรักษาดินแดน"
+          },
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "สวมหมวก",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=290s",
+            "seconds": 290,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "ดูตัวอย่างเครื่องหมายบนชุด",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=315s",
+            "seconds": 315,
+            "kind": "example_only",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "V02",
+      "P01",
+      "P02"
+    ],
+    "sourceIds": [
+      "C01",
+      "L01"
+    ],
+    "readiness": "editorial_check_sequence_with_source_links",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [
+      {
+        "sourceId": "C01",
+        "url": "https://www.tdc.mi.th/pdf/kts/TDDReg.pdf"
+      },
+      {
+        "sourceId": "L01",
+        "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf"
+      }
+    ],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [],
+    "videoJumpIds": [
+      "V02-under",
+      "V02-pants",
+      "V02-belt",
+      "V04-boots",
+      "V02-shirt-wear",
+      "V02-hat",
+      "V02-full"
+    ],
+    "videoJumpStatus": "linked",
+    "videoJumpNote": "ปุ่มแต่ละช่วงตรงกับหัวข้อ ไม่เลือกบทแรกของคลิปแทน"
+  },
+  {
+    "id": "guide-under",
+    "title": "เสื้อยืดประกอบชุดฝึกชาย/หญิง",
+    "summary": "รายละเอียดจากตัวบท2558 ไม่รับรองแทนการใช้ปัจจุบัน",
+    "steps": [
+      {
+        "order": 1,
+        "text": "ตรวจแบบเครื่องแบบที่หน่วยใช้",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          1
+        ],
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "เทียบเสื้อยืดชายคอแหลม/หญิงคอกลมสีกากีแกมเขียวตามส่วนชุดฝึกในตัวบท",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          2
+        ],
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "แยกเสื้อยืดประกอบชุดฝึกออกจากเสื้อนอก รายละเอียดคอเสื้อให้ยึดข้อความตัวบทที่อ้าง ไม่ตัดสินจากภาพมุมที่มองไม่ชัด",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V02-under"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          3
+        ],
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "เสื้อยืดประกอบชุด",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=25s",
+            "seconds": 25,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "V02",
+      "P01",
+      "P02"
+    ],
+    "sourceIds": [
+      "L01"
+    ],
+    "readiness": "historical_requirements_plus_demonstration",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [
+      {
+        "sourceId": "L01",
+        "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf"
+      }
+    ],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [
+      {
+        "id": "center-df-under-male",
+        "itemIds": [
+          "day-under",
+          "day-shirt"
+        ],
+        "field": "appearance",
+        "text": "ตัวบท2558ส่วนเสื้อคอเปิดชายแบบ ก/ข ใช้เสื้อยืดคอแหลมแขนสั้นสีกากีแกมเขียวประกอบ",
+        "sourceId": "L01",
+        "locator": "PDFหน้า1–2 ข้อ1 แทนข้อ7(2)",
+        "excerpt": "เสื้อยืดคอแหลม",
+        "strength": "official_legal_historical",
+        "uniformGroups": [
+          "male_uniform"
+        ],
+        "status": "draft",
+        "ownerDecision": "pending",
+        "reviewedAt": null,
+        "useAsAnswerEvidence": false,
+        "scope": {
+          "centerIds": [],
+          "locationIds": [],
+          "trainingTypes": [],
+          "studyYears": [],
+          "academicYearsBE": [],
+          "uniformGroups": [
+            "male_uniform"
+          ]
+        },
+        "currentTrainingRuleConfirmed": false,
+        "sourceRefs": [
+          {
+            "sourceId": "L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "PDFหน้า1–2 ข้อ1 แทนข้อ7(2)",
+            "excerpt": "เสื้อยืดคอแหลม"
+          }
+        ],
+        "legalVersionBE": 2558,
+        "sourceBindingToCurrentBatch": "not_confirmed"
+      },
+      {
+        "id": "center-df-under-female",
+        "itemIds": [
+          "day-under",
+          "day-shirt"
+        ],
+        "field": "appearance",
+        "text": "ตัวบท2558ส่วนหญิงใช้เสื้อยืดคอกลมแขนสั้นสีกากีแกมเขียวประกอบเท่านั้น",
+        "sourceId": "L01",
+        "locator": "PDFหน้า3 ข้อ2 แทนข้อ24(2)",
+        "excerpt": "เสื้อยืดคอกลมแขนสั้น",
+        "strength": "official_legal_historical",
+        "uniformGroups": [
+          "female_uniform"
+        ],
+        "status": "draft",
+        "ownerDecision": "pending",
+        "reviewedAt": null,
+        "useAsAnswerEvidence": false,
+        "scope": {
+          "centerIds": [],
+          "locationIds": [],
+          "trainingTypes": [],
+          "studyYears": [],
+          "academicYearsBE": [],
+          "uniformGroups": [
+            "female_uniform"
+          ]
+        },
+        "currentTrainingRuleConfirmed": false,
+        "sourceRefs": [
+          {
+            "sourceId": "L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "PDFหน้า3 ข้อ2 แทนข้อ24(2)",
+            "excerpt": "เสื้อยืดคอกลมแขนสั้น"
+          }
+        ],
+        "legalVersionBE": 2558,
+        "sourceBindingToCurrentBatch": "not_confirmed"
+      }
+    ],
+    "videoJumpIds": [
+      "V02-under"
+    ],
+    "videoJumpStatus": "linked",
+    "videoJumpNote": "ปุ่มแต่ละช่วงตรงกับหัวข้อ ไม่เลือกบทแรกของคลิปแทน"
+  },
+  {
+    "id": "guide-shirt",
+    "title": "เสื้อแบบ ก/ข และการจัดชายเสื้อ",
+    "summary": "แยกแบบก่อนดูวิธีสวม",
+    "steps": [
+      {
+        "order": 1,
+        "text": "แบบ กตัวบท2558ให้สอดชายเสื้อในกางเกง",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          1
+        ],
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "แบบ ขตัวบทให้ปล่อยชายเสื้อนอกกางเกง",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          2
+        ],
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "จัดชายเสื้อให้ตรงแบบที่กลุ่มใช้ แล้วตรวจความเรียบร้อยตามภาพตัวอย่างด้านหน้า ข้าง และหลัง",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V02-shirt",
+          "V02-shirt-wear"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          3
+        ],
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "แนะนำเสื้อนอก",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=160s",
+            "seconds": 160,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "สวมเสื้อนอกและจัดชายเสื้อ",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=260s",
+            "seconds": 260,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "V02",
+      "P01",
+      "P02"
+    ],
+    "sourceIds": [
+      "L01"
+    ],
+    "readiness": "historical_requirements_plus_demonstration",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [
+      {
+        "sourceId": "L01",
+        "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf"
+      }
+    ],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [
+      {
+        "id": "center-df-shirt-a",
+        "itemIds": [
+          "day-shirt"
+        ],
+        "field": "appearance",
+        "text": "ตัวบทแบบ ก: เสื้อคอเปิดสีกากีแกมเขียว กระเป๋าอก2ข้าง สอดชายเสื้อในกางเกง หญิงใช้ลักษณะและการใช้เช่นชาย โดยแยกเสื้อยืดประกอบ",
+        "sourceId": "L01",
+        "locator": "PDFหน้า1 ข้อ7(2)(ก); หน้า3 ข้อ24(2)",
+        "excerpt": "ให้สอดชายเสื้อไว้ภายในกางเกง",
+        "strength": "official_legal_historical",
+        "uniformGroups": [
+          "male_uniform",
+          "female_uniform"
+        ],
+        "status": "draft",
+        "ownerDecision": "pending",
+        "reviewedAt": null,
+        "useAsAnswerEvidence": false,
+        "scope": {
+          "centerIds": [],
+          "locationIds": [],
+          "trainingTypes": [],
+          "studyYears": [],
+          "academicYearsBE": [],
+          "uniformGroups": [
+            "male_uniform",
+            "female_uniform"
+          ]
+        },
+        "currentTrainingRuleConfirmed": false,
+        "sourceRefs": [
+          {
+            "sourceId": "L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "PDFหน้า1 ข้อ7(2)(ก); หน้า3 ข้อ24(2)",
+            "excerpt": "ให้สอดชายเสื้อไว้ภายในกางเกง"
+          }
+        ],
+        "legalVersionBE": 2558,
+        "sourceBindingToCurrentBatch": "not_confirmed"
+      },
+      {
+        "id": "center-df-shirt-b",
+        "itemIds": [
+          "day-shirt"
+        ],
+        "field": "appearance",
+        "text": "ตัวบทแบบ ข: เสื้อยาวถึงสะโพก กระเป๋าบนและล่าง4กระเป๋า มีช่องเสียบปากกาที่แขนซ้าย2ช่อง ปล่อยชายเสื้อนอกกางเกง หญิงใช้ลักษณะเช่นชายยกเว้นเสื้อยืดประกอบ",
+        "sourceId": "L01",
+        "locator": "PDFหน้า2 ข้อ7(2)(ข); หน้า3 ข้อ24(2)",
+        "excerpt": "ให้ปล่อยชายเสื้อไว้นอกกางเกง",
+        "strength": "official_legal_historical",
+        "uniformGroups": [
+          "male_uniform",
+          "female_uniform"
+        ],
+        "status": "draft",
+        "ownerDecision": "pending",
+        "reviewedAt": null,
+        "useAsAnswerEvidence": false,
+        "scope": {
+          "centerIds": [],
+          "locationIds": [],
+          "trainingTypes": [],
+          "studyYears": [],
+          "academicYearsBE": [],
+          "uniformGroups": [
+            "male_uniform",
+            "female_uniform"
+          ]
+        },
+        "currentTrainingRuleConfirmed": false,
+        "sourceRefs": [
+          {
+            "sourceId": "L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "PDFหน้า2 ข้อ7(2)(ข); หน้า3 ข้อ24(2)",
+            "excerpt": "ให้ปล่อยชายเสื้อไว้นอกกางเกง"
+          }
+        ],
+        "legalVersionBE": 2558,
+        "sourceBindingToCurrentBatch": "not_confirmed"
+      }
+    ],
+    "videoJumpIds": [
+      "V02-shirt",
+      "V02-shirt-wear",
+      "V01-shirt-overview"
+    ],
+    "videoJumpStatus": "linked",
+    "videoJumpNote": "ปุ่มแต่ละช่วงตรงกับหัวข้อ ไม่เลือกบทแรกของคลิปแทน"
+  },
+  {
+    "id": "guide-pants",
+    "title": "กางเกงและปลายขา",
+    "summary": "แยกตัวบทกับอุปกรณ์เสริม",
+    "steps": [
+      {
+        "order": 1,
+        "text": "จับคู่กางเกงกับเสื้อแบบเดียวกันตามตัวบทที่อ้าง",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V03",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          1
+        ],
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "วิชานักศึกษาวิชาทหาร101 | EP.1 How to พับแขนเสื้อและใส่รองเท้าคอมแบต | นศท. โรงเรียนอุตรดิตถ์ดรุณี",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนอุตรดิตถ์ดรุณี; ตรวจภาพลำดับทุก5วินาที 5แผ่น storyboard ไม่ใช่การดูพร้อมเสียงตลอดคลิป"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "เมื่อใช้รองเท้าสูงครึ่งน่องสีดำหรือรองเท้าเดินป่า ตัวบทระบุให้สอดปลายขาไว้ในรองเท้า",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V03",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          2
+        ],
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "วิชานักศึกษาวิชาทหาร101 | EP.1 How to พับแขนเสื้อและใส่รองเท้าคอมแบต | นศท. โรงเรียนอุตรดิตถ์ดรุณี",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนอุตรดิตถ์ดรุณี; ตรวจภาพลำดับทุก5วินาที 5แผ่น storyboard ไม่ใช่การดูพร้อมเสียงตลอดคลิป"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "อุปกรณ์รัดปลายขาและเหล็กชิดเท้าแยกจากวิธีสอดปลายขา ไม่ถือว่าต้องซื้อเพราะมีในคลิป",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V03",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V03-cuffs"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          3
+        ],
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "จัดปลายขากางเกงและรัดท็อปในตัวอย่าง",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8&t=390s",
+            "seconds": 390,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "V03",
+      "P01",
+      "P02"
+    ],
+    "sourceIds": [
+      "L01"
+    ],
+    "readiness": "historical_requirements_plus_demonstration",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [
+      {
+        "sourceId": "L01",
+        "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf"
+      }
+    ],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [
+      {
+        "id": "center-df-pants-a",
+        "itemIds": [
+          "day-pants"
+        ],
+        "field": "appearance",
+        "text": "ตัวบทกางเกงฝึกแบบ ก ใช้กับเสื้อแบบ ก กระเป๋าข้างปากเฉียงไม่มีปกและกระเป๋าหลังมีปก หญิงใช้ลักษณะและการใช้เช่นชาย",
+        "sourceId": "L01",
+        "locator": "PDFหน้า2 ข้อ8(2)(ก); หน้า3 ข้อ25(2)",
+        "excerpt": "ใช้ประกอบกับเสื้อคอเปิด",
+        "strength": "official_legal_historical",
+        "uniformGroups": [
+          "male_uniform",
+          "female_uniform"
+        ],
+        "status": "draft",
+        "ownerDecision": "pending",
+        "reviewedAt": null,
+        "useAsAnswerEvidence": false,
+        "scope": {
+          "centerIds": [],
+          "locationIds": [],
+          "trainingTypes": [],
+          "studyYears": [],
+          "academicYearsBE": [],
+          "uniformGroups": [
+            "male_uniform",
+            "female_uniform"
+          ]
+        },
+        "currentTrainingRuleConfirmed": false,
+        "sourceRefs": [
+          {
+            "sourceId": "L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "PDFหน้า2 ข้อ8(2)(ก); หน้า3 ข้อ25(2)",
+            "excerpt": "ใช้ประกอบกับเสื้อคอเปิด"
+          }
+        ],
+        "legalVersionBE": 2558,
+        "sourceBindingToCurrentBatch": "not_confirmed"
+      },
+      {
+        "id": "center-df-pants-b",
+        "itemIds": [
+          "day-pants"
+        ],
+        "field": "appearance",
+        "text": "ตัวบทกางเกงฝึกแบบ ข ใช้กับเสื้อแบบ ข มีกระเป๋าเจาะด้านหน้า/หลังและกระเป๋าข้างแบบขยาย หญิงใช้ลักษณะและการใช้เช่นชาย",
+        "sourceId": "L01",
+        "locator": "PDFหน้า2–3 ข้อ8(2)(ข); หน้า3 ข้อ25(2)",
+        "excerpt": "กางเกงขายาวสีกากีแกมเขียวแบบฝึก",
+        "strength": "official_legal_historical",
+        "uniformGroups": [
+          "male_uniform",
+          "female_uniform"
+        ],
+        "status": "draft",
+        "ownerDecision": "pending",
+        "reviewedAt": null,
+        "useAsAnswerEvidence": false,
+        "scope": {
+          "centerIds": [],
+          "locationIds": [],
+          "trainingTypes": [],
+          "studyYears": [],
+          "academicYearsBE": [],
+          "uniformGroups": [
+            "male_uniform",
+            "female_uniform"
+          ]
+        },
+        "currentTrainingRuleConfirmed": false,
+        "sourceRefs": [
+          {
+            "sourceId": "L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "PDFหน้า2–3 ข้อ8(2)(ข); หน้า3 ข้อ25(2)",
+            "excerpt": "กางเกงขายาวสีกากีแกมเขียวแบบฝึก"
+          }
+        ],
+        "legalVersionBE": 2558,
+        "sourceBindingToCurrentBatch": "not_confirmed"
+      },
+      {
+        "id": "center-df-pants-cuffs",
+        "itemIds": [
+          "day-pants",
+          "day-shirt"
+        ],
+        "field": "wear_condition",
+        "text": "เมื่อสวมกางเกงฝึกกับรองเท้าสูงครึ่งน่องสีดำหรือรองเท้าเดินป่า ตัวบทให้สอดปลายขาไว้ภายในรองเท้า ไม่ได้บังคับซื้อซิ่งหรือเหล็กชิดเท้าในข้อนี้",
+        "sourceId": "L01",
+        "locator": "PDFหน้า2–3 ข้อ8(2); หน้า3 ข้อ25(2)",
+        "excerpt": "ให้สอดปลายขากางเกงไว้ภายในรองเท้า",
+        "strength": "official_legal_historical",
+        "uniformGroups": [
+          "male_uniform",
+          "female_uniform"
+        ],
+        "status": "draft",
+        "ownerDecision": "pending",
+        "reviewedAt": null,
+        "useAsAnswerEvidence": false,
+        "scope": {
+          "centerIds": [],
+          "locationIds": [],
+          "trainingTypes": [],
+          "studyYears": [],
+          "academicYearsBE": [],
+          "uniformGroups": [
+            "male_uniform",
+            "female_uniform"
+          ]
+        },
+        "currentTrainingRuleConfirmed": false,
+        "sourceRefs": [
+          {
+            "sourceId": "L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "PDFหน้า2–3 ข้อ8(2); หน้า3 ข้อ25(2)",
+            "excerpt": "ให้สอดปลายขากางเกงไว้ภายในรองเท้า"
+          }
+        ],
+        "legalVersionBE": 2558,
+        "sourceBindingToCurrentBatch": "not_confirmed"
+      }
+    ],
+    "videoJumpIds": [
+      "V02-pants",
+      "V03-cuffs"
+    ],
+    "videoJumpStatus": "linked",
+    "videoJumpNote": "ปุ่มแต่ละช่วงตรงกับหัวข้อ ไม่เลือกบทแรกของคลิปแทน"
+  },
+  {
+    "id": "guide-belt",
+    "title": "ร้อยและปิดเข็มขัดเครื่องแบบ",
+    "summary": "ใช้ส่วนสาธิตของสจล.เป็นตัวอย่าง ไม่แทนข้อกำหนดหัวเข็มขัดทุกหน่วย",
+    "steps": [
+      {
+        "order": 1,
+        "text": "ใช้เข็มขัดเครื่องแบบของตน ร้อยสายผ่านหูกางเกงทีละหู",
+        "sourceIds": [],
+        "mediaIds": [
+          "V02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V02-belt"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          1
+        ],
+        "references": [],
+        "videos": [
+          {
+            "title": "ร้อยและปิดเข็มขัด",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=50s",
+            "seconds": 50,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "ร้อยสายและปิดหัวเข็มขัดตามกลไกของรุ่นที่ใช้ โดยคลิปเป็นตัวอย่างของรุ่นที่ผู้สาธิตใช้",
+        "sourceIds": [],
+        "mediaIds": [
+          "V02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V02-belt"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          2
+        ],
+        "references": [],
+        "videos": [
+          {
+            "title": "ร้อยและปิดเข็มขัด",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=50s",
+            "seconds": 50,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "ตรวจสายไม่บิดและแยกเข็มขัดเครื่องแบบจากเข็มขัดสนาม",
+        "sourceIds": [],
+        "mediaIds": [
+          "V02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V01-belt"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          3
+        ],
+        "references": [],
+        "videos": [
+          {
+            "title": "แนะนำเข็มขัดเครื่องแบบ",
+            "url": "https://www.youtube.com/watch?v=H3Tevs0qbOo&t=180s",
+            "seconds": 180,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "V02"
+    ],
+    "sourceIds": [],
+    "readiness": "sampled_visual_demonstration_no_audio_not_full_transcription",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [],
+    "videoJumpIds": [
+      "V02-belt",
+      "V01-belt"
+    ],
+    "videoJumpStatus": "linked",
+    "videoJumpNote": "ปุ่มแต่ละช่วงตรงกับหัวข้อ ไม่เลือกบทแรกของคลิปแทน"
+  },
+  {
+    "id": "guide-boots",
+    "title": "สวมถุงเท้าและรองเท้าคอมแบท",
+    "summary": "ตรวจภาพตัวอย่างจากคลิปทั้งลำดับ ไม่ได้ฟังเสียงครบ",
+    "steps": [
+      {
+        "order": 1,
+        "text": "สวมถุงเท้าก่อนสวมรองเท้า ตามลำดับที่มีในภาพสาธิต",
+        "sourceIds": [],
+        "mediaIds": [
+          "V03",
+          "V04"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V03-socks"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          1
+        ],
+        "references": [],
+        "videos": [
+          {
+            "title": "เตรียมและสวมถุงเท้า",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8&t=200s",
+            "seconds": 200,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "วิธีผูกเชือก รองเท้า รด. คอมแบท | โฟร์วิล ใส่เชือกรองเท้า รองเท้า รด. เชือกแบบยาว | focus4wd",
+            "url": "https://www.youtube.com/watch?v=0WWwg247CCs",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ผู้สร้าง focus4wdTV; ตรวจภาพลำดับทุก5วินาที 5แผ่น; ผู้สร้างระบุว่าอาจผิดพลาด เป็นวิธีสาธิตไม่ใช่ระเบียบ"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "คลายส่วนเชือกก่อนสวมเท้าเข้าในรองเท้ารุ่นที่สาธิต",
+        "sourceIds": [],
+        "mediaIds": [
+          "V03",
+          "V04"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V03-loosen",
+          "V04-boots"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          2
+        ],
+        "references": [],
+        "videos": [
+          {
+            "title": "เตรียมรองเท้าและคลายเชือก",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8&t=225s",
+            "seconds": 225,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "สวมเท้าเข้ารองเท้าคอมแบต",
+            "url": "https://www.youtube.com/watch?v=0WWwg247CCs&t=200s",
+            "seconds": 200,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "จัดลิ้นรองเท้าและค่อยปรับเชือกจากช่วงล่างขึ้นบนตามภาพสาธิต",
+        "sourceIds": [],
+        "mediaIds": [
+          "V03",
+          "V04"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V04-tighten"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          3
+        ],
+        "references": [],
+        "videos": [
+          {
+            "title": "ปรับความกระชับเชือกหลังสวม",
+            "url": "https://www.youtube.com/watch?v=0WWwg247CCs&t=230s",
+            "seconds": 230,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "วิชานักศึกษาวิชาทหาร101 | EP.1 How to พับแขนเสื้อและใส่รองเท้าคอมแบต | นศท. โรงเรียนอุตรดิตถ์ดรุณี",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนอุตรดิตถ์ดรุณี; ตรวจภาพลำดับทุก5วินาที 5แผ่น storyboard ไม่ใช่การดูพร้อมเสียงตลอดคลิป"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "text": "ฝึกร้อยและผูกปมก่อนวันไป ตรวจการประกอบกับปลายขาตามคำสั่งหน่วย",
+        "sourceIds": [],
+        "mediaIds": [
+          "V03",
+          "V04"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V09-start",
+          "V03-cuffs"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          4
+        ],
+        "references": [],
+        "videos": [
+          {
+            "title": "ผูกปมเริ่มต้น",
+            "url": "https://www.youtube.com/watch?v=WodmxuTr-m4&t=28s",
+            "seconds": 28,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "จัดปลายขากางเกงและรัดท็อปในตัวอย่าง",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8&t=390s",
+            "seconds": 390,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "วิธีผูกเชือก รองเท้า รด. คอมแบท | โฟร์วิล ใส่เชือกรองเท้า รองเท้า รด. เชือกแบบยาว | focus4wd",
+            "url": "https://www.youtube.com/watch?v=0WWwg247CCs",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ผู้สร้าง focus4wdTV; ตรวจภาพลำดับทุก5วินาที 5แผ่น; ผู้สร้างระบุว่าอาจผิดพลาด เป็นวิธีสาธิตไม่ใช่ระเบียบ"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "V03",
+      "V04"
+    ],
+    "sourceIds": [],
+    "readiness": "sampled_visual_demonstration_no_audio_not_full_transcription",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [],
+    "videoJumpIds": [
+      "V04-boots",
+      "V03-socks",
+      "V03-loosen",
+      "V04-tighten",
+      "V04-knot",
+      "V04-stow",
+      "V03-cuffs"
+    ],
+    "videoJumpStatus": "linked",
+    "videoJumpNote": "ปุ่มแต่ละช่วงตรงกับหัวข้อ ไม่เลือกบทแรกของคลิปแทน"
+  },
+  {
+    "id": "guide-lacing",
+    "title": "พื้นฐานร้อยเชือกแบบไขว้",
+    "summary": "วิธีทั่วไปจากผู้จัดทำต้นฉบับ ไม่ยืนยันว่าเป็นแบบบังคับของศูนย์ รด.",
+    "steps": [
+      {
+        "order": 1,
+        "text": "เริ่มร้อยพาดแนวนอนด้านในผ่านรูคู่ล่างสุดออกมาสองข้าง",
+        "sourceIds": [
+          "G02"
+        ],
+        "mediaIds": [
+          "P05",
+          "V08",
+          "V04"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V08-bottom"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          1
+        ],
+        "references": [
+          {
+            "sourceKey": "center:G02",
+            "url": "https://www.fieggen.com/shoelace/crisscrosslacing.htm",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "Ian Fieggen"
+          }
+        ],
+        "videos": [
+          {
+            "title": "เริ่มร้อยรูคู่ล่าง",
+            "url": "https://www.youtube.com/watch?v=4ZDIJILCM-o&t=36s",
+            "seconds": 36,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "วิธีผูกเชือก รองเท้า รด. คอมแบท | โฟร์วิล ใส่เชือกรองเท้า รองเท้า รด. เชือกแบบยาว | focus4wd",
+            "url": "https://www.youtube.com/watch?v=0WWwg247CCs",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ผู้สร้าง focus4wdTV; ตรวจภาพลำดับทุก5วินาที 5แผ่น; ผู้สร้างระบุว่าอาจผิดพลาด เป็นวิธีสาธิตไม่ใช่ระเบียบ"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "ไขว้ปลายเชือกแล้วร้อยออกผ่านรูคู่ถัดขึ้นไป",
+        "sourceIds": [
+          "G02"
+        ],
+        "mediaIds": [
+          "P05",
+          "V08",
+          "V04"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V08-cross"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          2
+        ],
+        "references": [
+          {
+            "sourceKey": "center:G02",
+            "url": "https://www.fieggen.com/shoelace/crisscrosslacing.htm",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "Ian Fieggen"
+          }
+        ],
+        "videos": [
+          {
+            "title": "ไขว้เชือกไปรูคู่ถัดไป",
+            "url": "https://www.youtube.com/watch?v=4ZDIJILCM-o&t=46s",
+            "seconds": 46,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "วิธีผูกเชือก รองเท้า รด. คอมแบท | โฟร์วิล ใส่เชือกรองเท้า รองเท้า รด. เชือกแบบยาว | focus4wd",
+            "url": "https://www.youtube.com/watch?v=0WWwg247CCs",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ผู้สร้าง focus4wdTV; ตรวจภาพลำดับทุก5วินาที 5แผ่น; ผู้สร้างระบุว่าอาจผิดพลาด เป็นวิธีสาธิตไม่ใช่ระเบียบ"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "ร้อยไขว้ซ้ำขึ้นไปจนถึงคู่รูที่ต้องใช้ จำนวนคู่รูขึ้นกับรองเท้า ไม่กำหนดจำนวนรูให้ทุกคู่เหมือนกัน",
+        "sourceIds": [
+          "G02"
+        ],
+        "mediaIds": [
+          "P05",
+          "V08",
+          "V04"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V08-repeat"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          3
+        ],
+        "references": [
+          {
+            "sourceKey": "center:G02",
+            "url": "https://www.fieggen.com/shoelace/crisscrosslacing.htm",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "Ian Fieggen"
+          }
+        ],
+        "videos": [
+          {
+            "title": "ร้อยไขว้ซ้ำขึ้นด้านบน",
+            "url": "https://www.youtube.com/watch?v=4ZDIJILCM-o&t=60s",
+            "seconds": 60,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "วิธีผูกเชือก รองเท้า รด. คอมแบท | โฟร์วิล ใส่เชือกรองเท้า รองเท้า รด. เชือกแบบยาว | focus4wd",
+            "url": "https://www.youtube.com/watch?v=0WWwg247CCs",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ผู้สร้าง focus4wdTV; ตรวจภาพลำดับทุก5วินาที 5แผ่น; ผู้สร้างระบุว่าอาจผิดพลาด เป็นวิธีสาธิตไม่ใช่ระเบียบ"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "P05",
+      "V08",
+      "V04"
+    ],
+    "sourceIds": [
+      "G02"
+    ],
+    "readiness": "complete_text_steps_read_diagrams_linked_generic_skill",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [
+      {
+        "sourceId": "G02",
+        "url": "https://www.fieggen.com/shoelace/crisscrosslacing.htm"
+      }
+    ],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [],
+    "videoJumpIds": [
+      "V08-bottom",
+      "V08-cross",
+      "V08-repeat",
+      "V04-lacing"
+    ],
+    "videoJumpStatus": "linked",
+    "videoJumpNote": "ปุ่มแต่ละช่วงตรงกับหัวข้อ ไม่เลือกบทแรกของคลิปแทน"
+  },
+  {
+    "id": "guide-knot",
+    "title": "พื้นฐานผูกปมเชือกรองเท้า",
+    "summary": "สรุปจาก7ขั้นของStandard Knot ในต้นฉบับ",
+    "steps": [
+      {
+        "order": 1,
+        "text": "ผูกปมเริ่มต้นแบบซ้ายทับขวาตามรูปต้นฉบับ",
+        "sourceIds": [
+          "G01"
+        ],
+        "mediaIds": [
+          "P04",
+          "V09"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V09-start"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          1
+        ],
+        "references": [
+          {
+            "sourceKey": "center:G01",
+            "url": "https://www.fieggen.com/shoelace/standardknot.htm",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "Ian Fieggen"
+          }
+        ],
+        "videos": [
+          {
+            "title": "ผูกปมเริ่มต้น",
+            "url": "https://www.youtube.com/watch?v=WodmxuTr-m4&t=28s",
+            "seconds": 28,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "พับเชือกขวาเป็นห่วง",
+        "sourceIds": [
+          "G01"
+        ],
+        "mediaIds": [
+          "P04",
+          "V09"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V09-loop"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          2
+        ],
+        "references": [
+          {
+            "sourceKey": "center:G01",
+            "url": "https://www.fieggen.com/shoelace/standardknot.htm",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "Ian Fieggen"
+          }
+        ],
+        "videos": [
+          {
+            "title": "พับเชือกเป็นห่วงแรก",
+            "url": "https://www.youtube.com/watch?v=WodmxuTr-m4&t=42s",
+            "seconds": 42,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "นำเชือกซ้ายอ้อมหลังห่วงแล้ววนกลับมาด้านหน้า",
+        "sourceIds": [
+          "G01"
+        ],
+        "mediaIds": [
+          "P04",
+          "V09"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V09-wrap"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          3
+        ],
+        "references": [
+          {
+            "sourceKey": "center:G01",
+            "url": "https://www.fieggen.com/shoelace/standardknot.htm",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "Ian Fieggen"
+          }
+        ],
+        "videos": [
+          {
+            "title": "พันเชือกอีกเส้นรอบห่วง",
+            "url": "https://www.youtube.com/watch?v=WodmxuTr-m4&t=50s",
+            "seconds": 50,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "text": "พับเชือกซ้ายเป็นห่วงแล้วดันผ่านช่องที่เกิดขึ้น",
+        "sourceIds": [
+          "G01"
+        ],
+        "mediaIds": [
+          "P04",
+          "V09"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V09-through"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          4
+        ],
+        "references": [
+          {
+            "sourceKey": "center:G01",
+            "url": "https://www.fieggen.com/shoelace/standardknot.htm",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "Ian Fieggen"
+          }
+        ],
+        "videos": [
+          {
+            "title": "ดันห่วงผ่านช่องตรงกลาง",
+            "url": "https://www.youtube.com/watch?v=WodmxuTr-m4&t=60s",
+            "seconds": 60,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "text": "ดึงห่วงทั้งสองข้างให้ปมกระชับ แล้วตรวจปมและปลายเชือก",
+        "sourceIds": [
+          "G01"
+        ],
+        "mediaIds": [
+          "P04",
+          "V09"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V09-pull"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          5
+        ],
+        "references": [
+          {
+            "sourceKey": "center:G01",
+            "url": "https://www.fieggen.com/shoelace/standardknot.htm",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "Ian Fieggen"
+          }
+        ],
+        "videos": [
+          {
+            "title": "ดึงห่วงทั้งสองให้กระชับ",
+            "url": "https://www.youtube.com/watch?v=WodmxuTr-m4&t=70s",
+            "seconds": 70,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "P04",
+      "V09"
+    ],
+    "sourceIds": [
+      "G01"
+    ],
+    "readiness": "complete_text_steps_read_diagrams_linked_generic_skill",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [
+      {
+        "sourceId": "G01",
+        "url": "https://www.fieggen.com/shoelace/standardknot.htm"
+      }
+    ],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [],
+    "videoJumpIds": [
+      "V09-start",
+      "V09-loop",
+      "V09-wrap",
+      "V09-through",
+      "V09-pull",
+      "V04-knot"
+    ],
+    "videoJumpStatus": "linked",
+    "videoJumpNote": "ปุ่มแต่ละช่วงตรงกับหัวข้อ ไม่เลือกบทแรกของคลิปแทน"
+  },
+  {
+    "id": "guide-sleeves",
+    "title": "พับแขนเสื้อฝึก",
+    "summary": "ขั้นตอนข้อความจากภาพลำดับที่ตรวจ อ่านได้ก่อนเปิดคลิป; ยังไม่ได้ฟังเสียงเต็มและไม่กำหนดจำนวนทบหรือมุมพับที่ภาพยืนยันไม่ได้",
+    "steps": [
+      {
+        "order": 1,
+        "text": "ตรวจว่าหน่วยอนุญาตให้พับแขนในโอกาสนั้นก่อน",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "V03",
+          "V05",
+          "V06"
+        ],
+        "videoJumpIds": [],
+        "originStepOrders": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          },
+          {
+            "title": "วิชานักศึกษาวิชาทหาร101 | EP.1 How to พับแขนเสื้อและใส่รองเท้าคอมแบต | นศท. โรงเรียนอุตรดิตถ์ดรุณี",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนอุตรดิตถ์ดรุณี; ตรวจภาพลำดับทุก5วินาที 5แผ่น storyboard ไม่ใช่การดูพร้อมเสียงตลอดคลิป"
+          },
+          {
+            "title": "วิธีพับแขนเสื้อ รด | เสื้อ รด พับแขน ง่ายๆ | โฟร์วิล ลองเสื้อ รด. พับแขนเสื้อ รด. แบบใหม่",
+            "url": "https://www.youtube.com/watch?v=fudKRcGQ-5o",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "คลิปทางเลือกพับแขน; ตรวจข้อมูลหน้าเท่านั้น ยังไม่ได้ตรวจภาพ/เสียงตลอดคลิป; รอบนี้ตรวจภาพลำดับแล้ว (ไม่มีเสียงเต็มคลิป)"
+          },
+          {
+            "title": "พับแขนเสื้อ รด. #นศท.68 #พับแขนเสื้อรด. #รด.มือใหม่",
+            "url": "https://www.youtube.com/watch?v=dEaifF5a6uo",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ตรวจข้อมูลหน้าเท่านั้น; ปีในชื่อคลิปไม่ตรงวันเผยแพร่ จึงไม่ใช้ชื่อเป็นหลักฐานปีการศึกษา; รอบนี้ตรวจภาพลำดับแล้ว (ไม่มีเสียงเต็มคลิป)"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "วางเสื้อบนพื้นเรียบ จัดแขนเสื้อข้างที่จะพับให้เรียบ ไม่บิด",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "V03",
+          "V05",
+          "V06"
+        ],
+        "videoJumpIds": [
+          "V05-lay"
+        ],
+        "originStepOrders": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "เตรียมแขนเสื้อบนโต๊ะ",
+            "url": "https://www.youtube.com/watch?v=fudKRcGQ-5o&t=15s",
+            "seconds": 15,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          },
+          {
+            "title": "วิชานักศึกษาวิชาทหาร101 | EP.1 How to พับแขนเสื้อและใส่รองเท้าคอมแบต | นศท. โรงเรียนอุตรดิตถ์ดรุณี",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนอุตรดิตถ์ดรุณี; ตรวจภาพลำดับทุก5วินาที 5แผ่น storyboard ไม่ใช่การดูพร้อมเสียงตลอดคลิป"
+          },
+          {
+            "title": "พับแขนเสื้อ รด. #นศท.68 #พับแขนเสื้อรด. #รด.มือใหม่",
+            "url": "https://www.youtube.com/watch?v=dEaifF5a6uo",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ตรวจข้อมูลหน้าเท่านั้น; ปีในชื่อคลิปไม่ตรงวันเผยแพร่ จึงไม่ใช้ชื่อเป็นหลักฐานปีการศึกษา; รอบนี้ตรวจภาพลำดับแล้ว (ไม่มีเสียงเต็มคลิป)"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "พับปลายแขนขึ้นทีละทบ จัดแนวผ้าให้เรียบระหว่างพับ ตามตัวอย่างภาพลำดับที่อ่านได้",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "V03",
+          "V05",
+          "V06"
+        ],
+        "videoJumpIds": [
+          "V05-fold"
+        ],
+        "originStepOrders": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "พับแขนข้างแรกทีละช่วง",
+            "url": "https://www.youtube.com/watch?v=fudKRcGQ-5o&t=50s",
+            "seconds": 50,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          },
+          {
+            "title": "วิชานักศึกษาวิชาทหาร101 | EP.1 How to พับแขนเสื้อและใส่รองเท้าคอมแบต | นศท. โรงเรียนอุตรดิตถ์ดรุณี",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนอุตรดิตถ์ดรุณี; ตรวจภาพลำดับทุก5วินาที 5แผ่น storyboard ไม่ใช่การดูพร้อมเสียงตลอดคลิป"
+          },
+          {
+            "title": "พับแขนเสื้อ รด. #นศท.68 #พับแขนเสื้อรด. #รด.มือใหม่",
+            "url": "https://www.youtube.com/watch?v=dEaifF5a6uo",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ตรวจข้อมูลหน้าเท่านั้น; ปีในชื่อคลิปไม่ตรงวันเผยแพร่ จึงไม่ใช้ชื่อเป็นหลักฐานปีการศึกษา; รอบนี้ตรวจภาพลำดับแล้ว (ไม่มีเสียงเต็มคลิป)"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "text": "ทำแขนอีกข้าง แล้วเทียบระดับและแนวพับของสองข้าง",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "V03",
+          "V05",
+          "V06"
+        ],
+        "videoJumpIds": [
+          "V05-other",
+          "V05-check"
+        ],
+        "originStepOrders": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "พับแขนอีกข้าง",
+            "url": "https://www.youtube.com/watch?v=fudKRcGQ-5o&t=340s",
+            "seconds": 340,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "ตรวจแขนเสื้อที่พับครบสองข้าง",
+            "url": "https://www.youtube.com/watch?v=fudKRcGQ-5o&t=600s",
+            "seconds": 600,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          },
+          {
+            "title": "วิชานักศึกษาวิชาทหาร101 | EP.1 How to พับแขนเสื้อและใส่รองเท้าคอมแบต | นศท. โรงเรียนอุตรดิตถ์ดรุณี",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนอุตรดิตถ์ดรุณี; ตรวจภาพลำดับทุก5วินาที 5แผ่น storyboard ไม่ใช่การดูพร้อมเสียงตลอดคลิป"
+          },
+          {
+            "title": "พับแขนเสื้อ รด. #นศท.68 #พับแขนเสื้อรด. #รด.มือใหม่",
+            "url": "https://www.youtube.com/watch?v=dEaifF5a6uo",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ตรวจข้อมูลหน้าเท่านั้น; ปีในชื่อคลิปไม่ตรงวันเผยแพร่ จึงไม่ใช้ชื่อเป็นหลักฐานปีการศึกษา; รอบนี้ตรวจภาพลำดับแล้ว (ไม่มีเสียงเต็มคลิป)"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "text": "ลองสวมตรวจตำแหน่งแขนเสื้อและความเรียบร้อยของสองข้าง",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "V03",
+          "V05",
+          "V06"
+        ],
+        "videoJumpIds": [
+          "V05-wear"
+        ],
+        "originStepOrders": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "ดูผลเมื่อสวมเสื้อแล้ว",
+            "url": "https://www.youtube.com/watch?v=fudKRcGQ-5o&t=635s",
+            "seconds": 635,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          },
+          {
+            "title": "วิชานักศึกษาวิชาทหาร101 | EP.1 How to พับแขนเสื้อและใส่รองเท้าคอมแบต | นศท. โรงเรียนอุตรดิตถ์ดรุณี",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนอุตรดิตถ์ดรุณี; ตรวจภาพลำดับทุก5วินาที 5แผ่น storyboard ไม่ใช่การดูพร้อมเสียงตลอดคลิป"
+          },
+          {
+            "title": "พับแขนเสื้อ รด. #นศท.68 #พับแขนเสื้อรด. #รด.มือใหม่",
+            "url": "https://www.youtube.com/watch?v=dEaifF5a6uo",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ตรวจข้อมูลหน้าเท่านั้น; ปีในชื่อคลิปไม่ตรงวันเผยแพร่ จึงไม่ใช้ชื่อเป็นหลักฐานปีการศึกษา; รอบนี้ตรวจภาพลำดับแล้ว (ไม่มีเสียงเต็มคลิป)"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "text": "เงื่อนไขในตัวบท2558คือเหนือข้อศอกกว้างประมาณ7ซม.เมื่อได้รับอนุญาต ไม่กำหนดจำนวนทบตายตัวจากคลิป",
+        "sourceIds": [
+          "L01"
+        ],
+        "mediaIds": [
+          "V02",
+          "V03",
+          "V05",
+          "V06"
+        ],
+        "videoJumpIds": [],
+        "originStepOrders": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "editorialParaphrase": true,
+        "references": [
+          {
+            "sourceKey": "center:L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "กระทรวงกลาโหม/ราชกิจจานุเบกษา"
+          }
+        ],
+        "videos": [
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          },
+          {
+            "title": "วิชานักศึกษาวิชาทหาร101 | EP.1 How to พับแขนเสื้อและใส่รองเท้าคอมแบต | นศท. โรงเรียนอุตรดิตถ์ดรุณี",
+            "url": "https://www.youtube.com/watch?v=L0uSrxNsHJ8",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนอุตรดิตถ์ดรุณี; ตรวจภาพลำดับทุก5วินาที 5แผ่น storyboard ไม่ใช่การดูพร้อมเสียงตลอดคลิป"
+          },
+          {
+            "title": "วิธีพับแขนเสื้อ รด | เสื้อ รด พับแขน ง่ายๆ | โฟร์วิล ลองเสื้อ รด. พับแขนเสื้อ รด. แบบใหม่",
+            "url": "https://www.youtube.com/watch?v=fudKRcGQ-5o",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "คลิปทางเลือกพับแขน; ตรวจข้อมูลหน้าเท่านั้น ยังไม่ได้ตรวจภาพ/เสียงตลอดคลิป; รอบนี้ตรวจภาพลำดับแล้ว (ไม่มีเสียงเต็มคลิป)"
+          },
+          {
+            "title": "พับแขนเสื้อ รด. #นศท.68 #พับแขนเสื้อรด. #รด.มือใหม่",
+            "url": "https://www.youtube.com/watch?v=dEaifF5a6uo",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "ตรวจข้อมูลหน้าเท่านั้น; ปีในชื่อคลิปไม่ตรงวันเผยแพร่ จึงไม่ใช้ชื่อเป็นหลักฐานปีการศึกษา; รอบนี้ตรวจภาพลำดับแล้ว (ไม่มีเสียงเต็มคลิป)"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "V02",
+      "V03",
+      "V05",
+      "V06"
+    ],
+    "sourceIds": [
+      "L01"
+    ],
+    "readiness": "sampled_visual_demo_with_historical_permission_condition",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [
+      {
+        "sourceId": "L01",
+        "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf"
+      }
+    ],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [
+      {
+        "id": "center-df-sleeves",
+        "itemIds": [
+          "day-shirt"
+        ],
+        "field": "wear_condition",
+        "text": "ตัวบทให้พับแขนได้เมื่อได้รับอนุญาตเป็นครั้งคราว พับเหนือข้อศอกกว้างประมาณ7ซม.; ข้อนี้เป็นเงื่อนไข ไม่ใช่คู่มือขั้นตอนพับแขนครบทุกขั้น",
+        "sourceId": "L01",
+        "locator": "PDFหน้า1–2 ข้อ7(2)(ก)/(ข); หน้า3 ข้อ24(2)",
+        "excerpt": "เมื่อได้รับอนุญาตเป็นครั้งคราว",
+        "strength": "official_legal_historical",
+        "uniformGroups": [
+          "male_uniform",
+          "female_uniform"
+        ],
+        "status": "draft",
+        "ownerDecision": "pending",
+        "reviewedAt": null,
+        "useAsAnswerEvidence": false,
+        "scope": {
+          "centerIds": [],
+          "locationIds": [],
+          "trainingTypes": [],
+          "studyYears": [],
+          "academicYearsBE": [],
+          "uniformGroups": [
+            "male_uniform",
+            "female_uniform"
+          ]
+        },
+        "currentTrainingRuleConfirmed": false,
+        "sourceRefs": [
+          {
+            "sourceId": "L01",
+            "url": "https://ratchakitcha.soc.go.th/documents/2060616.pdf",
+            "locator": "PDFหน้า1–2 ข้อ7(2)(ก)/(ข); หน้า3 ข้อ24(2)",
+            "excerpt": "เมื่อได้รับอนุญาตเป็นครั้งคราว"
+          }
+        ],
+        "legalVersionBE": 2558,
+        "sourceBindingToCurrentBatch": "not_confirmed"
+      }
+    ],
+    "videoJumpIds": [
+      "V02-sleeves",
+      "V03-sleeves",
+      "V05-lay",
+      "V05-fold",
+      "V05-other",
+      "V05-check",
+      "V05-wear",
+      "V06-first",
+      "V06-check"
+    ],
+    "videoJumpStatus": "linked",
+    "videoJumpNote": "ปุ่มแต่ละช่วงตรงกับหัวข้อ ไม่เลือกบทแรกของคลิปแทน"
+  },
+  {
+    "id": "guide-hat",
+    "title": "สวมหมวกและตรวจทรง",
+    "summary": "ใช้คลิปช่วงหมวกและภาพหลายมุมประกอบ",
+    "steps": [
+      {
+        "order": 1,
+        "text": "สวมหมวกของตนให้เรียบร้อยและตรวจตราหมวก",
+        "sourceIds": [],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V02-hat"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          1
+        ],
+        "references": [],
+        "videos": [
+          {
+            "title": "สวมหมวก",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=290s",
+            "seconds": 290,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "ตรวจรูปทรงด้านหน้า ด้านข้าง และด้านหลังโดยเทียบภาพตัวอย่าง",
+        "sourceIds": [],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V01-hat"
+        ],
+        "videoJumpStatus": "linked",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          2
+        ],
+        "references": [],
+        "videos": [
+          {
+            "title": "สวมและจัดหมวก",
+            "url": "https://www.youtube.com/watch?v=H3Tevs0qbOo&t=435s",
+            "seconds": 435,
+            "kind": "demonstration",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "ตรวจหมวกและตราของตนตามหน่วย ไม่กำหนดมุม/ระยะเป็นเซนติเมตรจากภาพอย่างเดียว",
+        "sourceIds": [],
+        "mediaIds": [
+          "V02",
+          "P01",
+          "P02"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          3
+        ],
+        "references": [],
+        "videos": [
+          {
+            "title": "แนะนำการแต่งกายเครื่องแบบนักศึกษาวิชาทหาร สจล.",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "สจล.; ตรวจภาพลำดับทุก5วินาที 4แผ่น storyboard ไม่มีเสียงหรือคำบรรยายที่อ่านได้"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "V02",
+      "P01",
+      "P02"
+    ],
+    "sourceIds": [],
+    "readiness": "sampled_visual_demonstration_no_audio_not_full_transcription",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [],
+    "videoJumpIds": [
+      "V02-hat",
+      "V01-hat"
+    ],
+    "videoJumpStatus": "linked",
+    "videoJumpNote": "ปุ่มแต่ละช่วงตรงกับหัวข้อ ไม่เลือกบทแรกของคลิปแทน"
+  },
+  {
+    "id": "guide-insignia",
+    "title": "ตรวจป้ายชื่อและเครื่องหมาย",
+    "summary": "ยังไม่มีคู่มือตำแหน่งครบทุกชิ้นที่ยืนยันตรงหน่วยผู้ใช้",
+    "steps": [
+      {
+        "order": 1,
+        "text": "ตรวจชื่อและเลขชั้นปีของตน",
+        "sourceIds": [
+          "C08"
+        ],
+        "mediaIds": [
+          "P01",
+          "P02",
+          "P03",
+          "V01"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          1
+        ],
+        "references": [
+          {
+            "sourceKey": "center:C08",
+            "url": "https://regis.dusit.ac.th/main/wp-content/uploads/2024/06/คู่มือ-นักศึกษา-2567-มีปก-2.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "มหาวิทยาลัยสวนดุสิต"
+          }
+        ],
+        "videos": [
+          {
+            "title": "\"นศท. แต่งกาย ง่ายนิดเดียว\" | รอดอขอสอน",
+            "url": "https://www.youtube.com/watch?v=H3Tevs0qbOo",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนเบญจมราชูทิศ จันทบุรี/มทบ.19; คำอธิบายกล่าวปี2567 เป็นตัวอย่างต่างหน่วย"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "text": "ตรวจเครื่องหมายสถานศึกษา จังหวัด/สังกัดจากประกาศของตน",
+        "sourceIds": [
+          "C08"
+        ],
+        "mediaIds": [
+          "P01",
+          "P02",
+          "P03",
+          "V01"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          2
+        ],
+        "references": [
+          {
+            "sourceKey": "center:C08",
+            "url": "https://regis.dusit.ac.th/main/wp-content/uploads/2024/06/คู่มือ-นักศึกษา-2567-มีปก-2.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "มหาวิทยาลัยสวนดุสิต"
+          }
+        ],
+        "videos": [
+          {
+            "title": "\"นศท. แต่งกาย ง่ายนิดเดียว\" | รอดอขอสอน",
+            "url": "https://www.youtube.com/watch?v=H3Tevs0qbOo",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนเบญจมราชูทิศ จันทบุรี/มทบ.19; คำอธิบายกล่าวปี2567 เป็นตัวอย่างต่างหน่วย"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "text": "ใช้ภาพตัวอย่างช่วยระบุชิ้น ไม่คัดลอกตราสถาบันของคนในรูป",
+        "sourceIds": [
+          "C08"
+        ],
+        "mediaIds": [
+          "P01",
+          "P02",
+          "P03",
+          "V01"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [
+          "V02-insignia"
+        ],
+        "videoJumpStatus": "example_only",
+        "videoJumpNote": "ลิงก์เป็นตัวอย่างประกอบ ไม่ใช้แทนข้อความระเบียบหรือประกาศหน่วย",
+        "originStepOrders": [
+          3
+        ],
+        "references": [
+          {
+            "sourceKey": "center:C08",
+            "url": "https://regis.dusit.ac.th/main/wp-content/uploads/2024/06/คู่มือ-นักศึกษา-2567-มีปก-2.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "มหาวิทยาลัยสวนดุสิต"
+          }
+        ],
+        "videos": [
+          {
+            "title": "ดูตัวอย่างเครื่องหมายบนชุด",
+            "url": "https://www.youtube.com/watch?v=qLlvfMA6BJc&t=315s",
+            "seconds": 315,
+            "kind": "example_only",
+            "note": "เวลาโดยประมาณจากภาพลำดับ ไม่ได้ตรวจเสียงเต็มคลิป"
+          },
+          {
+            "title": "\"นศท. แต่งกาย ง่ายนิดเดียว\" | รอดอขอสอน",
+            "url": "https://www.youtube.com/watch?v=H3Tevs0qbOo",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนเบญจมราชูทิศ จันทบุรี/มทบ.19; คำอธิบายกล่าวปี2567 เป็นตัวอย่างต่างหน่วย"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "text": "ยังไม่สร้างระยะติดเป็นเซนติเมตรที่ไม่มีต้นฉบับรองรับ",
+        "sourceIds": [
+          "C08"
+        ],
+        "mediaIds": [
+          "P01",
+          "P02",
+          "P03",
+          "V01"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          4
+        ],
+        "references": [
+          {
+            "sourceKey": "center:C08",
+            "url": "https://regis.dusit.ac.th/main/wp-content/uploads/2024/06/คู่มือ-นักศึกษา-2567-มีปก-2.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "มหาวิทยาลัยสวนดุสิต"
+          }
+        ],
+        "videos": [
+          {
+            "title": "\"นศท. แต่งกาย ง่ายนิดเดียว\" | รอดอขอสอน",
+            "url": "https://www.youtube.com/watch?v=H3Tevs0qbOo",
+            "seconds": null,
+            "kind": "video_link",
+            "note": "โรงเรียนเบญจมราชูทิศ จันทบุรี/มทบ.19; คำอธิบายกล่าวปี2567 เป็นตัวอย่างต่างหน่วย"
+          }
+        ]
+      }
+    ],
+    "mediaIds": [
+      "P01",
+      "P02",
+      "P03",
+      "V01"
+    ],
+    "sourceIds": [
+      "C08"
+    ],
+    "readiness": "partial_visual_examples_exact_unit_positions_unresolved",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [
+      {
+        "sourceId": "C08",
+        "url": "https://regis.dusit.ac.th/main/wp-content/uploads/2024/06/คู่มือ-นักศึกษา-2567-มีปก-2.pdf"
+      }
+    ],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [],
+    "videoJumpIds": [
+      "V02-insignia"
+    ],
+    "videoJumpStatus": "example_only",
+    "videoJumpNote": "ดูตัวอย่างเครื่องหมายบนชุดสำเร็จ ไม่ใช่คลิปสอนเย็บ/ติดหรือกำหนดระยะ"
+  },
+  {
+    "id": "guide-hair",
+    "title": "ผมและการเก็บผม",
+    "summary": "คู่มือสวนดุสิตเป็นตัวอย่างเฉพาะสถาบัน/ปี",
+    "steps": [
+      {
+        "order": 1,
+        "text": "ตรวจทรงผมตามประกาศของกลุ่มตน คู่มือสวนดุสิต2567เป็นเพียงตัวอย่างเฉพาะสถาบัน",
+        "sourceIds": [
+          "C08"
+        ],
+        "mediaIds": [
+          "P03"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          1
+        ],
+        "references": [
+          {
+            "sourceKey": "center:C08",
+            "url": "https://regis.dusit.ac.th/main/wp-content/uploads/2024/06/คู่มือ-นักศึกษา-2567-มีปก-2.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "มหาวิทยาลัยสวนดุสิต"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "order": 2,
+        "text": "ผู้ที่ผมยาวดูตัวอย่างรวบมวยและเน็ตสีดำในแหล่งนั้น",
+        "sourceIds": [
+          "C08"
+        ],
+        "mediaIds": [
+          "P03"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          2
+        ],
+        "references": [
+          {
+            "sourceKey": "center:C08",
+            "url": "https://regis.dusit.ac.th/main/wp-content/uploads/2024/06/คู่มือ-นักศึกษา-2567-มีปก-2.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "มหาวิทยาลัยสวนดุสิต"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "order": 3,
+        "text": "ใช้ประกาศหน่วยจริงกำหนดทรง/ความยาว ไม่สวมตัวเลขของคู่มือต่างหน่วยเป็นเกณฑ์ทุกคน",
+        "sourceIds": [
+          "C08"
+        ],
+        "mediaIds": [
+          "P03"
+        ],
+        "editorialParaphrase": true,
+        "verification": "text_or_sampled_visual_as_stated_on_linked_media_not_full_audio",
+        "videoJumpIds": [],
+        "videoJumpStatus": "text_or_image_only",
+        "videoJumpNote": "ขั้นนี้อ้างข้อความ/ภาพ หรือการตรวจประกาศของหน่วย ยังไม่มีช่วงวิดีโอที่สาธิตตรงขั้น",
+        "originStepOrders": [
+          3
+        ],
+        "references": [
+          {
+            "sourceKey": "center:C08",
+            "url": "https://regis.dusit.ac.th/main/wp-content/uploads/2024/06/คู่มือ-นักศึกษา-2567-มีปก-2.pdf",
+            "locator": "เนื้อหาตามรายการในชุดเดิม",
+            "attribution": "มหาวิทยาลัยสวนดุสิต"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "mediaIds": [
+      "P03"
+    ],
+    "sourceIds": [
+      "C08"
+    ],
+    "readiness": "school_specific_example_not_universal_hair_rule",
+    "status": "draft",
+    "ownerDecision": "pending",
+    "reviewedAt": null,
+    "useAsAnswerEvidence": false,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [
+        "regular"
+      ],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "prerequisite": "ตรวจประกาศหน่วย/ปี/ผลัดก่อน ใช้คลิปเป็นวิธีสาธิต ไม่ทำให้รายละเอียดเฉพาะผู้สาธิตเป็นข้อบังคับทุกแห่ง",
+    "sourceRefs": [
+      {
+        "sourceId": "C08",
+        "url": "https://regis.dusit.ac.th/main/wp-content/uploads/2024/06/คู่มือ-นักศึกษา-2567-มีปก-2.pdf"
+      }
+    ],
+    "fullAudioVerified": false,
+    "supportingHistoricalFacts": [],
+    "videoJumpIds": [],
+    "videoJumpStatus": "not_found",
+    "videoJumpNote": "ยังไม่พบคลิปเก็บผมที่ตรวจเนื้อหาและระบุเวลาได้ ใช้ภาพ/ประกาศที่อ้างไว้ก่อน"
+  }
+]

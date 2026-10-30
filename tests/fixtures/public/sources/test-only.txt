@@ -1,0 +1,4 @@
+TEST ONLY — Synthetic engine fixture, not RD rules.
+All dates, locations, policies and excerpts in tests are deliberately synthetic.
+Fixture: item-alpha allowed in synthetic regular training, prohibited in synthetic field training.
+Do not copy this file into production public/content or cite it to users.

@@ -1,0 +1,657 @@
+[
+  {
+    "id": "pack-uniform",
+    "label": "ชุดฝึกและเครื่องหมายตามประกาศ",
+    "aliases": [
+      "ชุดฝึก",
+      "ชุด รด.",
+      "ชุดรด",
+      "เครื่องแบบ"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-canteen",
+    "label": "กระติกน้ำ",
+    "aliases": [
+      "กระติก",
+      "กระติกน้ำ",
+      "ขวดน้ำ",
+      "กระติกน้ำพร้อมปลอก",
+      "กระติกน้ำ รด."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-field-belt",
+    "label": "เข็มขัดสนาม",
+    "aliases": [
+      "เข็มขัดสนาม",
+      "เข็มขัดรด",
+      "เข็มขัดสนาม รด."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-boots",
+    "label": "รองเท้าฝึกที่พอดีเท้า",
+    "aliases": [
+      "รองเท้าฝึก",
+      "รองเท้าคอมแบต",
+      "รองเท้าคอมแบท",
+      "คอมแบต",
+      "รองเท้าสูงครึ่งน่องสีดำ",
+      "รองเท้าเดินป่า"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-socks",
+    "label": "ถุงเท้าแบบหนา",
+    "aliases": [
+      "ถุงเท้าหนา",
+      "ถุงเท้า",
+      "ถุงเท้าแบบหนา"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-id",
+    "label": "บัตรประชาชน/บัตร นศท.",
+    "aliases": [
+      "บัตรประชาชน",
+      "บัตรปชช",
+      "บัตร นศท.",
+      "บัตรนักศึกษาวิชาทหาร",
+      "บัตร ปชช."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-contact",
+    "label": "ข้อมูลติดต่อผู้ปกครองและผู้กำกับ",
+    "aliases": [
+      "เบอร์ผู้ปกครอง",
+      "เบอร์ผู้กำกับ",
+      "เบอร์ติดต่อ"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-personal-meds",
+    "label": "ยารักษาโรคประจำตัว",
+    "aliases": [
+      "ยาประจำตัว",
+      "ยาโรคประจำตัว"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-toothbrush",
+    "label": "แปรงสีฟัน",
+    "aliases": [
+      "แปรงสีฟัน"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-toothpaste",
+    "label": "ยาสีฟัน",
+    "aliases": [
+      "ยาสีฟัน"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-soap",
+    "label": "สบู่หรือผลิตภัณฑ์ทำความสะอาดที่ใช้ประจำ",
+    "aliases": [
+      "สบู่หรือผลิตภัณฑ์ทำความสะอาดที่ใช้ประจำ"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-shampoo",
+    "label": "แชมพูตามความจำเป็น",
+    "aliases": [
+      "แชมพูตามความจำเป็น"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-towel",
+    "label": "ผ้าเช็ดตัว",
+    "aliases": [
+      "ผ้าเช็ดตัว"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-tissue",
+    "label": "กระดาษชำระ/ทิชชู",
+    "aliases": [
+      "กระดาษชำระ/ทิชชู"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-underwear",
+    "label": "กางเกงชั้นใน",
+    "aliases": [
+      "ชุดชั้นใน",
+      "กางเกงใน",
+      "ชุดชั้นในสำรอง",
+      "กางเกงชั้นใน"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-period",
+    "label": "อุปกรณ์ดูแลประจำเดือนสำหรับผู้ที่ใช้",
+    "aliases": [
+      "ผ้าอนามัย",
+      "ประจำเดือน"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-toiletry-pouch",
+    "label": "ถุงของใช้ในห้องน้ำ",
+    "aliases": [
+      "ถุงของใช้ในห้องน้ำ"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-document-pouch",
+    "label": "ซอง/ถุงป้องกันเอกสารเปียก",
+    "aliases": [
+      "ซอง/ถุงป้องกันเอกสารเปียก"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-dirty-bag",
+    "label": "ถุงแยกผ้าใช้แล้วหรือเปียก",
+    "aliases": [
+      "ถุงแยกผ้าใช้แล้วหรือเปียก"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-small-pouches",
+    "label": "ถุงแยกของชิ้นเล็ก",
+    "aliases": [
+      "ถุงแยกของชิ้นเล็ก"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-name-tag",
+    "label": "ป้ายชื่อสำหรับกระเป๋า/ของส่วนตัว",
+    "aliases": [
+      "ป้ายชื่อสำหรับกระเป๋า/ของส่วนตัว"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-repellent",
+    "label": "ผลิตภัณฑ์ทาผิวหนังไล่ยุง",
+    "aliases": [
+      "ยากันยุง",
+      "โลชั่นกันยุง",
+      "ทากันยุง"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-sunscreen",
+    "label": "ครีมกันแดด",
+    "aliases": [
+      "กันแดด",
+      "ครีมกันแดด"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-mask",
+    "label": "หน้ากากที่เหมาะกับบริบทฝุ่น",
+    "aliases": [
+      "หน้ากาก",
+      "ผ้าปิดจมูก"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-valuables",
+    "label": "เครื่องประดับ/ของมีค่าที่ไม่จำเป็น",
+    "aliases": [
+      "เครื่องประดับ/ของมีค่าที่ไม่จำเป็น"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-knife",
+    "label": "มีดพก",
+    "aliases": [
+      "มีดพก"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-cutter",
+    "label": "คัตเตอร์",
+    "aliases": [
+      "คัตเตอร์"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-gun",
+    "label": "อาวุธปืนส่วนตัว",
+    "aliases": [
+      "อาวุธปืนส่วนตัว"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-explosives",
+    "label": "วัตถุระเบิด",
+    "aliases": [
+      "วัตถุระเบิด"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-alcohol",
+    "label": "เครื่องดื่มแอลกอฮอล์",
+    "aliases": [
+      "เครื่องดื่มแอลกอฮอล์"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-narcotics",
+    "label": "ยาเสพติด",
+    "aliases": [
+      "ยาเสพติด"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-cigarettes",
+    "label": "บุหรี่",
+    "aliases": [
+      "บุหรี่"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-vape",
+    "label": "บุหรี่ไฟฟ้า",
+    "aliases": [
+      "บุหรี่ไฟฟ้า"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-phone",
+    "label": "โทรศัพท์",
+    "aliases": [
+      "มือถือ",
+      "โทรศัพท์มือถือ",
+      "โทรศัพท์",
+      "สมาร์ทโฟน"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-powerbank",
+    "label": "พาวเวอร์แบงก์/สายชาร์จ",
+    "aliases": [
+      "พาวเวอร์แบงก์",
+      "พาวเวอร์แบงค์",
+      "แบตสำรอง",
+      "power bank",
+      "สายชาร์จ"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-snacks",
+    "label": "อาหาร/ขนม",
+    "aliases": [
+      "ขนม",
+      "อาหาร",
+      "ลูกอม"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-spoon",
+    "label": "ช้อน ส้อม และแก้วน้ำ",
+    "aliases": [
+      "ช้อน",
+      "ช้อนกินข้าว",
+      "ส้อม",
+      "แก้วน้ำ"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-sleeping",
+    "label": "เครื่องนอน เช่น ผ้าห่ม/ถุงนอน",
+    "aliases": [
+      "เครื่องนอน",
+      "ผ้าห่ม",
+      "ถุงนอน"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-flashlight",
+    "label": "ไฟฉาย",
+    "aliases": [
+      "ไฟฉาย",
+      "ไฟฉายคาดหัว"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-sandals",
+    "label": "รองเท้าฟองน้ำ",
+    "aliases": [
+      "รองเท้าแตะ",
+      "ฟองน้ำ",
+      "รองเท้าฟองน้ำ"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-rain",
+    "label": "เสื้อกันฝน/อุปกรณ์กันเปียก",
+    "aliases": [
+      "เสื้อกันฝน",
+      "กันเปียก",
+      "ชุดกันฝน",
+      "เสื้อกันฝนค้างคาว",
+      "เสื้อกันฝนแบบคลุม"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-writing",
+    "label": "สมุดพกและปากกา",
+    "aliases": [
+      "สมุด",
+      "สมุดพก",
+      "ปากกา",
+      "เครื่องเขียน"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-cash",
+    "label": "เงินสด",
+    "aliases": [
+      "เงิน",
+      "เงินสด",
+      "งบ",
+      "ค่าใช้จ่าย"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-cutting",
+    "label": "กรรไกร/อุปกรณ์ตัดเล็บ",
+    "aliases": [
+      "กรรไกร",
+      "ที่ตัดเล็บ",
+      "อุปกรณ์ตัดเล็บ"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-coils",
+    "label": "ยาจุดกันยุง/อุปกรณ์ให้ความร้อน",
+    "aliases": [
+      "ยาจุดกันยุง",
+      "ขดยากันยุง"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-undershirt",
+    "label": "เสื้อยืดซับใน",
+    "aliases": [
+      "เสื้อรองใน",
+      "เสื้อซับใน",
+      "เสื้อยืดซับใน"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-field-kit",
+    "label": "เครื่องสนาม",
+    "aliases": [
+      "ชุดเครื่องสนาม"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-bath-kit",
+    "label": "เครื่องอาบน้ำ/ซักล้าง",
+    "aliases": [
+      "ของอาบน้ำ",
+      "ของซักล้าง"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-shorts",
+    "label": "กางเกงขาสั้น",
+    "aliases": [
+      "ขาสั้น"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-sneakers",
+    "label": "รองเท้าผ้าใบ",
+    "aliases": [
+      "ผ้าใบ",
+      "รองเท้ากีฬา"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-shoe-care",
+    "label": "ยาขัดรองเท้า/แปรงขัด",
+    "aliases": [
+      "ยาขัดรองเท้า",
+      "แปรงขัดรองเท้า"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-sewing",
+    "label": "เข็มและด้าย",
+    "aliases": [
+      "เข็ม",
+      "ด้าย",
+      "ชุดเย็บผ้า"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-jacket",
+    "label": "เสื้อกันหนาว",
+    "aliases": [
+      "เสื้อหนาว"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-webbing",
+    "label": "สายโยงบ่า",
+    "aliases": [
+      "สายเก่ง",
+      "สายโยงบ่าทหาร",
+      "สายโยงบ่า"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-backpack",
+    "label": "เป้สนาม",
+    "aliases": [
+      "เป้ รด.",
+      "กระเป๋าสนาม",
+      "เป้สนาม"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-groundsheet",
+    "label": "ผ้าพลาสติกปูนอน",
+    "aliases": [
+      "ผ้าปูนอน",
+      "ผ้าปูรองนอน",
+      "ผ้าพลาสติกปูนอน"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "uniform-shirt-a",
+    "label": "เสื้อคอเปิดแบบ ก",
+    "aliases": [
+      "เสื้อฝึกแบบ ก"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "uniform-shirt-b",
+    "label": "เสื้อคอเปิดแบบ ข",
+    "aliases": [
+      "เสื้อฝึกแบบ ข"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "uniform-pants-a",
+    "label": "กางเกงฝึกแบบ ก",
+    "aliases": [
+      "กางเกงแบบ ก"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "uniform-pants-b",
+    "label": "กางเกงฝึกแบบ ข",
+    "aliases": [
+      "กางเกงแบบ ข"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-leg-band",
+    "label": "ห่วงขาผ้า",
+    "aliases": [
+      "ซิ่งผ้า",
+      "ซิ่ง รด.",
+      "ห่วงขาผ้า"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-ankle-strap",
+    "label": "รัดข้อเท้า/รัดท๊อป",
+    "aliases": [
+      "รัดท็อป",
+      "รัดข้อเท้า",
+      "รัดท๊อป"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-heel-plate",
+    "label": "เหล็กชิดเท้า",
+    "aliases": [
+      "เหล็กชิดเท้ารองเท้า รด.",
+      "เหล็กชิดเท้า"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-combat-boots",
+    "label": "รองเท้าคอมแบท",
+    "aliases": [
+      "คอมแบท",
+      "Boot Combat",
+      "รองเท้าคอมแบท"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-jungle-boots",
+    "label": "รองเท้าจังเกิ้ล",
+    "aliases": [
+      "จังเกิ้ล",
+      "รองเท้าจังเกิ้ล"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-uniform-belt",
+    "label": "เข็มขัดเครื่องแบบ รด.",
+    "aliases": [
+      "เข็มขัด รด."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-uniform-hat",
+    "label": "หมวก รด.",
+    "aliases": [
+      "หมวกนักเรียน รด.",
+      "หมวก รด."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pack-wet-wipes",
+    "label": "ทิชชู่เปียก",
+    "aliases": [],
+    "status": "draft"
+  },
+  {
+    "id": "pack-bucket",
+    "label": "ขันอาบน้ำ",
+    "aliases": [],
+    "status": "draft"
+  },
+  {
+    "id": "pack-triangular-cloth",
+    "label": "ผ้าคลุมสามเหลี่ยม (คำเรียกผู้รีวิว)",
+    "aliases": [],
+    "status": "draft"
+  },
+  {
+    "id": "pack-earplugs",
+    "label": "ที่อุดหู",
+    "aliases": [],
+    "status": "draft"
+  },
+  {
+    "id": "pack-talc",
+    "label": "แป้งฝุ่นทาตัว",
+    "aliases": [],
+    "status": "draft"
+  },
+  {
+    "id": "pack-plaster",
+    "label": "พลาสเตอร์/วัสดุปิดแผล",
+    "aliases": [],
+    "status": "draft"
+  }
+]

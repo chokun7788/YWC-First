@@ -1,0 +1,55 @@
+{
+  "selectedOption": 4,
+  "key": "visual_handbook",
+  "sourcePath": "D:\\Chokun\\design\\2026-10-29\\visual-directions-234848\\direction-04-desktop-mobile.png",
+  "sourceSha256": "af3ece90bfe0146f1a3f47127c8772ffacc9ba766fc31f8541bc9f481e84ac6c",
+  "selectedAt": "2026-10-30T00:11:30.585780+07:00",
+  "implementationRoot": "D:\\Chokun\\prototypes\\rd-ready-visual-handbook",
+  "responsiveWeb": true,
+  "originalAppModified": false,
+  "prototypeOnly": true,
+  "sourceCropBoxes": {
+    "desktop-reference": [
+      52,
+      38,
+      1188,
+      957
+    ],
+    "mobile-reference": [
+      1227,
+      38,
+      1575,
+      957
+    ],
+    "hero-reference": [
+      520,
+      104,
+      1187,
+      323
+    ],
+    "uniform-reference": [
+      90,
+      429,
+      354,
+      541
+    ],
+    "undershirt-reference": [
+      90,
+      546,
+      354,
+      648
+    ],
+    "socks-reference": [
+      90,
+      659,
+      354,
+      752
+    ],
+    "toiletries-reference": [
+      89,
+      756,
+      357,
+      854
+    ]
+  }
+}

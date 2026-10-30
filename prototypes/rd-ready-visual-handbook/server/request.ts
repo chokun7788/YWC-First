@@ -1,0 +1,3 @@
+import {z} from 'zod';
+export const requestSchema=z.strictObject({question:z.string().trim().min(1).max(1200),context:z.enum(['center','field','unsure']),centerId:z.string().regex(/^[a-zA-Z0-9._-]+$/).max(100).nullable().optional(),locationId:z.string().regex(/^[a-zA-Z0-9._-]+$/).max(100).nullable().optional(),studyYear:z.union([z.literal(1),z.literal(2),z.literal(3)]).nullable().optional(),academicYearBE:z.number().int().min(2400).max(3000).nullable().optional(),uniformGroup:z.enum(['male_uniform','female_uniform','unspecified']).optional()});
+export type AskRequest=z.infer<typeof requestSchema>;

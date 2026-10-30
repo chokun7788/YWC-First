@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "file": "knowledge-v1.json",
+  "sha256": "23929f64ef48059e9f8c656e438988be89d1cc45297191c75c93aba75417d301",
+  "bytes": 594717,
+  "counts": {
+    "topics": 164,
+    "sources": 102,
+    "chunks": 251,
+    "media": 40
+  },
+  "status": "experimental_data_preparation_not_public_deployment",
+  "allChunksCited": true,
+  "allChunksStillDraft": true,
+  "remaining": [
+    "Human source/scope/current-applicability review",
+    "Media rights check",
+    "Database migration and backend adapter",
+    "Public distributed usage limiter and deployment smoke tests"
+  ]
+}

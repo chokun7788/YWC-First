@@ -1,0 +1,25 @@
+[
+  {
+    "id": "src-draft-001",
+    "title": "รอกรอกชื่อประกาศต้นฉบับ",
+    "publisher": "",
+    "url": null,
+    "localDocumentPath": null,
+    "publishedAt": null,
+    "reviewedAt": null,
+    "validFrom": null,
+    "validUntil": null,
+    "scope": {
+      "centerIds": [],
+      "locationIds": [],
+      "trainingTypes": [],
+      "studyYears": [],
+      "academicYearsBE": [],
+      "uniformGroups": []
+    },
+    "kind": "official",
+    "status": "draft",
+    "supersedesSourceIds": [],
+    "rightsNote": null
+  }
+]

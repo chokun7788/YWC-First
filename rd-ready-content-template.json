@@ -1,0 +1,137 @@
+{
+  "templateVersion": "1.0",
+  "templateNote": "DRAFT ONLY: These records are placeholders, not RD rules. Split collection keys into content/*.json. Never use draft records as answer evidence. Empty scope arrays mean unresolved and cannot be verified.",
+  "settings": {
+    "projectName": "RD Ready",
+    "contentMode": "verified_only",
+    "centers": [
+      {
+        "id": "vibhavadi_pending",
+        "label": "วิภาวดี — รอตรวจชื่อหน่วยทางการ",
+        "officialName": null,
+        "verified": false
+      }
+    ],
+    "locations": [
+      { "id": "regular_location_pending", "label": "สถานที่ฝึกปกติ — รอตรวจ", "verified": false },
+      { "id": "khao_chon_kai", "label": "เขาชนไก่", "verified": false }
+    ],
+    "supportedContexts": [],
+    "contactUrl": null
+  },
+  "sources": [
+    {
+      "id": "src-draft-001",
+      "title": "รอกรอกชื่อประกาศต้นฉบับ",
+      "publisher": "",
+      "url": null,
+      "localDocumentPath": null,
+      "publishedAt": null,
+      "reviewedAt": null,
+      "validFrom": null,
+      "validUntil": null,
+      "scope": {
+        "centerIds": [],
+        "locationIds": [],
+        "trainingTypes": [],
+        "studyYears": [],
+        "academicYearsBE": [],
+        "uniformGroups": []
+      },
+      "kind": "official",
+      "status": "draft",
+      "supersedesSourceIds": [],
+      "rightsNote": null
+    }
+  ],
+  "evidence": [
+    {
+      "id": "ev-draft-001",
+      "title": "รอกรอกหัวข้อที่ตรวจแล้ว",
+      "topic": "uniform",
+      "text": "",
+      "keywords": [],
+      "scope": {
+        "centerIds": [],
+        "locationIds": [],
+        "trainingTypes": [],
+        "studyYears": [],
+        "academicYearsBE": [],
+        "uniformGroups": []
+      },
+      "sourceRefs": [
+        { "sourceId": "src-draft-001", "locator": "", "excerpt": "" }
+      ],
+      "status": "draft",
+      "kind": "how_to"
+    }
+  ],
+  "items": [
+    {
+      "id": "item-draft-001",
+      "label": "ชื่อสิ่งของที่ต้องกรอก",
+      "aliases": [],
+      "categoryId": "personal-items",
+      "imagePath": null
+    }
+  ],
+  "policies": [
+    {
+      "id": "policy-draft-001",
+      "itemId": "item-draft-001",
+      "scope": {
+        "centerIds": [],
+        "locationIds": [],
+        "trainingTypes": [],
+        "studyYears": [],
+        "academicYearsBE": [],
+        "uniformGroups": []
+      },
+      "permission": "not_specified",
+      "preparation": "not_specified",
+      "conditions": [],
+      "evidenceBlockIds": ["ev-draft-001"],
+      "status": "draft",
+      "supersedesPolicyIds": []
+    }
+  ],
+  "guides": [
+    {
+      "id": "guide-draft-001",
+      "slug": "draft-guide",
+      "title": "รอกรอกชื่อคู่มือ",
+      "summary": "",
+      "scope": {
+        "centerIds": [],
+        "locationIds": [],
+        "trainingTypes": [],
+        "studyYears": [],
+        "academicYearsBE": [],
+        "uniformGroups": []
+      },
+      "status": "draft",
+      "steps": [
+        {
+          "title": "รอกรอกขั้นตอน",
+          "evidenceBlockIds": ["ev-draft-001"],
+          "imagePath": null,
+          "alt": null
+        }
+      ],
+      "relatedItemIds": [],
+      "videoLinks": [],
+      "evidenceBlockIds": ["ev-draft-001"]
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-draft-001",
+      "questions": ["รอกรอกคำถามจริง"],
+      "intent": "dress",
+      "evidenceBlockIds": ["ev-draft-001"],
+      "guideIds": ["guide-draft-001"],
+      "itemIds": [],
+      "status": "draft"
+    }
+  ]
+}
