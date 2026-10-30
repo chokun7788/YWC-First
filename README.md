@@ -13,3 +13,6 @@
 ตั้ง Root Directory เป็น `prototypes/rd-ready-visual-handbook`; build command `npm run build:cloud`; output `dist/client`; Node.js 24. ตั้งค่า environment variables ฝั่ง server ตาม prototype `.env.example` และเตรียม Supabase gateway/database ก่อนเปิด Gemini สำหรับโควตาร่วม รายละเอียด schema อยู่ใน `prototypes/rd-ready-visual-handbook/supabase`.
 
 การ push repository เพียงอย่างเดียวยังไม่เชื่อม GitHub เข้ากับ Vercel โดยอัตโนมัติ ต้องเชื่อม repository ผ่าน Vercel ก่อนหากต้องการ deploy ทุกครั้งที่ push.
+
+หมายเหตุ: สคริปต์ QA เฉพาะเครื่องและผลลัพธ์ในโฟลเดอร์ qa/output ไม่ได้รวมในชุดนี้ บางคำสั่งทดสอบ UI เดิมจึงยังรันจาก clone ไม่ได้; โค้ดแอปและ build:cloud ถูกรวมไว้
+
